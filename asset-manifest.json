@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-2/static/css/main.e49318bb.css",
+    "main.js": "/web-2/static/js/main.b77ab73b.js",
+    "static/js/453.74810f74.chunk.js": "/web-2/static/js/453.74810f74.chunk.js",
+    "static/media/p--0.png": "/web-2/static/media/p--0.fbfbf5a2252be9a88905.png",
+    "static/media/p12.webp": "/web-2/static/media/p12.8b58cacbf68f6b75fd83.webp",
+    "static/media/oil logo.png": "/web-2/static/media/oil logo.15d82d68de446fffc22a.png",
+    "static/media/oil 2.jpg": "/web-2/static/media/oil 2.42c6a8b5b3ff17977aad.jpg",
+    "static/media/eng 4.jpg": "/web-2/static/media/eng 4.eddf278a6764b7b1e15d.jpg",
+    "static/media/all.png": "/web-2/static/media/all.e8bd9f4d33722293dd58.png",
+    "static/media/eng 2.jpg": "/web-2/static/media/eng 2.1235a131d9bc26596f59.jpg",
+    "static/media/eng 3.webp": "/web-2/static/media/eng 3.e41d83b70dbcf761c39b.webp",
+    "static/media/eng 1.webp": "/web-2/static/media/eng 1.1da187d54cf4bc8b2d9e.webp",
+    "index.html": "/web-2/index.html",
+    "main.e49318bb.css.map": "/web-2/static/css/main.e49318bb.css.map",
+    "main.b77ab73b.js.map": "/web-2/static/js/main.b77ab73b.js.map",
+    "453.74810f74.chunk.js.map": "/web-2/static/js/453.74810f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49318bb.css",
+    "static/js/main.b77ab73b.js"
+  ]
+}
